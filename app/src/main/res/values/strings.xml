@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Crypshot</string>
+
+    <string-array name="currencies">
+        <item>Canadian Dollar</item>
+        <item>US Dollar</item>
+        <item>Euro</item>
+        <item>British Pound Sterling</item>
+        <item>Japanese Yen</item>
+        <item>Chinese Yuan</item>
+    </string-array>
+
+</resources>
